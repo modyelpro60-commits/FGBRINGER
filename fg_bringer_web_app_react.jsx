@@ -26,7 +26,7 @@ export default function FGBringer() {
               بحبك ياجنجونتي
             </h1>
             <p className="text-sm text-gray-400 mt-1">
-              متفوتش أي لعبة مجانية تاني.
+             اجمل بنت في الدنيا.
             </p>
           </div>
 

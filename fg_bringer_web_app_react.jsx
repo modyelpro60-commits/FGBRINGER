@@ -23,7 +23,7 @@ export default function FGBringer() {
         <div className="max-w-6xl mx-auto px-6 py-5 flex items-center justify-between">
           <div>
             <h1 className="text-3xl font-bold tracking-tight text-green-400">
-              FG Bringer
+              بحبك ياجنجونتي
             </h1>
             <p className="text-sm text-gray-400 mt-1">
               متفوتش أي لعبة مجانية تاني.

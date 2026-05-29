@@ -173,7 +173,7 @@ export default function FGBringer() {
       <footer className="border-t border-white/10 mt-10">
         <div className="max-w-6xl mx-auto px-6 py-8 flex flex-col md:flex-row gap-4 items-center justify-between">
           <div>
-            <h5 className="text-xl font-bold text-green-400">FG Bringer</h5>
+            <h5 className="text-xl font-bold text-green-400">بحبك ياجنجونتي</h5>
             <p className="text-gray-500 text-sm mt-1">
               FG Bringer © 2026
             </p>
